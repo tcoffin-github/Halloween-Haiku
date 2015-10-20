@@ -1,3 +1,14 @@
+# Unity cache directories
+Temp/
+Library/
+
+# Unity/MonoDevelop generated 
+*.userprefs
+/*.csproj
+/*.sln
+*.user
+*.unityproj
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
