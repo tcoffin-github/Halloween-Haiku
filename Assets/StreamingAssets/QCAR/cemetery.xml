@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="AM01" size="609.599976 457.199951" />
+    <ImageTarget name="cemetery08-target" size="457.200012 609.600037" />
+    <ImageTarget name="cemetery07-target" size="457.200012 609.600037" />
+    <ImageTarget name="cemetery06-target" size="457.200012 609.600037" />
+    <ImageTarget name="cemetery05-target" size="457.200012 609.600037" />
+    <ImageTarget name="cemetery04-target" size="457.200012 609.600037" />
+    <ImageTarget name="cemetery03-target" size="457.200012 609.600037" />
+    <ImageTarget name="cemetery02b-target" size="457.200012 609.600037" />
+    <ImageTarget name="cemetery01-target" size="457.200012 609.600037" />
+  </Tracking>
+</QCARConfig>
